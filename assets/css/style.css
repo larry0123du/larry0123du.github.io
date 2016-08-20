@@ -1,7 +1,7 @@
 .main-header {
   height: 100vh;
   min-width: 950px;
-  background-image: url(https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpl1/v/t1.0-9/11999062_1641757556102302_8252148374107087309_n.jpg?oh=971c2fc788c3e8e9d143de8f90ed6d43&oe=568D6F98);
+  background-image: url("/assets/img/inner_mongol.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -192,7 +192,7 @@ section {
 #experiences {
   min-height: 500px;
   min-width: 950px;
-  background-image: url(https://images.unsplash.com/photo-1429389500602-ee846f41eea7?q=80&fm=jpg&s=a4bb94171d7805618909e2b7a5951ce8);
+  background-image: url("/assets/img/sky.jpg");
   /*ls*/
 }
 
