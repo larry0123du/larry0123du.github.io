@@ -193,7 +193,7 @@ section {
   min-height: 500px;
   min-width: 950px;
   background-image: url("/assets/img/purdue.jpg");
-  /*background-size: contain;*/
+  background-size: cover;
   /*ls*/
 }
 
