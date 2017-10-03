@@ -83,6 +83,7 @@ a.social-icon:hover {
 .navbar {
   margin-bottom: 0;
   border: none;
+  width: 100%;
 
   position: fixed;
   background-color: transparent;
