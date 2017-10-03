@@ -147,7 +147,7 @@ width: 100%;
         /*min-height: 700px;
         min-width: 950px;*/
     /*background-color: #339DCA;*/
-    height: 100vh;
+    height: auto;
     width: 100vw;
     background-image: url("/assets/img/2015-06-13 00.19.19.jpg"); 
     background-position: center center;
@@ -171,7 +171,9 @@ display: inline-block;
 }*/
 
     .headshot {
-        width: 100%;
+        width: 20%;
+        display: block;
+        margin: 0 auto;
         border: 2px solid #fff;
     }
 
