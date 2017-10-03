@@ -37,10 +37,11 @@
 
 .social {
   position: relative;
-  top: 35%; 
-  left: 43%;
-  width: 12%;
-  height: auto;
+  /*top: 35%; 
+  left: 43%;*/
+  align: center;
+  width: auto;
+  height: 20%;
   margin-right: 0;
 }
 
