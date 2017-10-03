@@ -1,7 +1,7 @@
 .main-header {
-    height: 100vh;
+    height: 100%;
     min-width: 600px;
-    width: 100vw;
+    width: 100%;
     background-image: url("/assets/img/inner_mongol.jpg");
     background-position: center center;
     background-size: cover;
@@ -148,7 +148,7 @@ width: 100%;
         min-width: 950px;*/
     /*background-color: #339DCA;*/
     height: auto;
-    width: 100vw;
+    width: 100%;
     background-image: url("/assets/img/starry.jpg"); 
     background-position: center center;
     background-size: cover;
@@ -320,7 +320,7 @@ display: inline-block;
 }
 
 .wrapper-404 {
-    height: 100vh;
+    height: 100%;
 }
 
 .title-404 {
