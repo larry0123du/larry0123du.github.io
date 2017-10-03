@@ -38,21 +38,21 @@
 .social {
   position: relative;
   top: 35%; 
-  /*height: 12%;*/
   left: 43%;
   width: 12%;
+  height: auto;
   margin-right: 0;
 }
 
 .icon-container {
   display: inline-block;
   /*height: 100%;*/
-  /*width: 50%;*/
+  width: 30%;
 }
-/*
-a.social-icon {
-  width: 50%;
-}*/
+
+a.social-icon img {
+  width: 100%;
+}
 
 a.social-icon:hover {
   opacity: .8;
