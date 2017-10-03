@@ -84,6 +84,7 @@ a.social-icon:hover {
   margin-bottom: 0;
   border: none;
 
+  position: fixed;
   background-color: transparent;
 }
 
@@ -107,7 +108,8 @@ footer .fa-heart {
 }
 */
 .container {
-  max-width: 60em;
+  /*max-width: 60em;*/
+    width: 100%;
 }
 
 section {
@@ -192,7 +194,7 @@ section {
 #experiences {
   min-height: 500px;
   min-width: 950px;
-  background-image: url("/assets/img/purdue.jpg");
+  background-image: url("/assets/img/Lake_Mich.jpg");
   background-size: cover;
   /*ls*/
 }
