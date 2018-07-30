@@ -4,7 +4,7 @@ $(function() {
 });
 
 function registerNavButtons() {
-	var sections = ['about', 'writing', 'contact'];
+	var sections = ['about'];
 
 	sections.forEach(function(section) {
 		clickAndScroll('#nav-' + section, '#' + section + '-section');
@@ -23,6 +23,7 @@ function clickAndScroll(link, section) {
 	});
 }
 
+/*
 function handleContactSubmission() {
 	$('form').submit(function(e) {
 		e.preventDefault();
@@ -36,3 +37,4 @@ function handleContactSubmission() {
  		win.focus();
  	});
 }
+*/
